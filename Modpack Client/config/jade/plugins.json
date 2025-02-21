@@ -57,6 +57,14 @@
     "hud.status": true,
     "hud.contents": true
   },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -85,6 +93,9 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "modularrouters": {
+    "router": true
   },
   "extendedcrafting": {
     "elite_auto_table": true,
@@ -119,6 +130,11 @@
     "hud": true,
     "hud.redstone": true
   },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
   "mysticalagradditions": {
     "infused_farmland": true
   },
@@ -131,12 +147,31 @@
     "mortar": true,
     "cauldron": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "waystones": {
     "waystone": true
+  },
+  "camera": {
+    "image_frame": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "mysticalagriculture": {
     "infused_farmland": true,
     "crop": true,
     "inferium_crop": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }
